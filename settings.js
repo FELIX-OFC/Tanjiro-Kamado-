@@ -12,7 +12,7 @@ global.botNumber = "" //Ejemplo: 573218138672
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-"18293478038", 
+"595975665953", 
 "18297933865",
 "18293527611"
 ]
@@ -31,15 +31,15 @@ global.MakiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botname = "Tanjiro Kamado"
-global.textbot = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗗𝙚𝙮𝙢𝙤𝙤𝙣𝗢𝙛𝙘 ❤️"
-global.dev = "Made With ❤️ by 𝗗𝙚𝙮𝙢𝙤𝙤𝙣 𝗢𝙛𝙘"
-global.author = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗗𝙚𝙮𝙢𝙤𝙤𝙣𝗢𝙛𝙘 ❤️"
-global.etiqueta = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗗𝙚𝙮𝙢𝙤𝙤𝙣𝗢𝙛𝙘 ❤️"
+global.botname = "𝐇𝐚𝐧𝐚𝐤𝐨 𝐁𝐨𝐭"
+global.textbot = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝗩𝙖𝙡𝙚𝙣𝙩𝙞𝙣𝙖 ❤️"
+global.dev = "Made With ❤️ by 𝙑𝙖𝙡𝙚𝙣𝙩𝙞𝙣𝙖"
+global.author = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝙑𝙖𝙡𝙚𝙣𝙩𝙞𝙣𝙖 ❤️"
+global.etiqueta = "𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓭 𝓫𝔂 𝙑𝙖𝙡𝙚𝙣𝙩𝙞𝙣𝙖"
 global.currency = "Coins"
-global.banner = "https://qu.ax/YhcoN.jpg"
-global.icono = "https://qu.ax/EjFju.png"
-global.catalogo = "https://qu.ax/Yvafl.jpg"
+global.banner = "https://qu.ax/AfaAc.jpg"
+global.icono = "https://qu.ax/jKXRu.jpg"
+global.catalogo = "https://qu.ax/yMuvo.jpg"
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
